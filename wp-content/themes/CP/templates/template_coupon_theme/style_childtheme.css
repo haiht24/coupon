@@ -1,0 +1,46 @@
+ /* =============================================================================
+  CHILD THEME GLOBAL STYLES
+   ========================================================================== */
+
+
+.wlt_coupon_theme .wlt_search_results.list_style .thumbnail { background:#FCF7EA; }
+.wlt_coupon_theme .wlt_search_results.list_style .thumbnail .frame img { max-width:90px; margin:0px; }
+.wlt_coupon_theme .wlt_search_results.list_style .frame { border:1px solid #ddd; margin-bottom:10px; margin-right:0px; padding:0px; }
+.wlt_coupon_theme .wlt_search_results.list_style .wrap { border:1px solid #ddd; border-left:3px solid #ddd; background:#fff; padding:20px;padding-top:0px; }
+.wlt_coupon_theme .wlt_search_results .wlt_shortcode_store a { text-decoration:underline; }
+.wlt_coupon_theme .wlt_search_results.list_style .wrap_extra { color:#929292; margin-top:10px; font-size:12px; }
+.wlt_coupon_theme .wlt_search_results.list_style .wrap_extra .pull-right { color:#000;  }
+.wlt_coupon_theme .wlt_search_results.list_style .wrap_extra .pull-right a { text-decoration:underline; }
+.wlt_coupon_theme .wlt_search_results.list_style .cbtn, .wlt_coupon_theme .wlt_search_results.list_style .cbtr { margin-top:20px; }
+
+.wlt_coupon_theme .wlt_search_results.list_style .coupon_outter_wrapper { margin-top:20px; }
+.wlt_coupon_theme .wlt_search_results.list_style .coupon_wrapper a { font-size:11px; }
+
+.wlt_coupon_theme .wlt_search_results.grid_style .col-md-10 { width:100%; }
+.wlt_coupon_theme .wlt_search_results.grid_style .col-md-8 { width:100%; }
+.wlt_coupon_theme .wlt_search_results.grid_style .col-md-10 .col-md-4 { width:100%; }
+
+.wlt_coupon_theme .clicktoreveal { margin-top:30px; }
+
+/* =============================================================================
+  END LISTING DISPLAY
+   ========================================================================== */
+   
+.pbtn { margin-top:40px; width:100%; border-radius:0px; text-transform:uppercase; }
+
+.wlt_coupon_theme .clicktoreveal { background:#FFFFE2; border:1px solid #ddd; text-align:right; position:relative; height:42px; -webkit-border-radius: 6px;
+-moz-border-radius: 6px;-ms-border-radius: 6px;-o-border-radius: 6px;border-radius: 6px;cursor:pointer; overflow:hidden; }
+.wlt_coupon_theme .clicktoreveal .overlay { padding:10px;  position:absolute; z-index:100; color:#fff; height:40px; text-align:left;
+text-shadow: 0 1px 0 rgba(0,0,0,.7); border-top-left-radius: 6px;border-bottom-left-radius: 6px;width:85%; } 
+.wlt_coupon_theme .clicktoreveal .code { font-size:18px; padding:5px; font-weight:bold; color:#FF9900;  }
+.wlt_coupon_theme .clicktoreveal.green { border: 1px solid #658e2a; box-shadow: 0 1px 0 1px rgba(0,0,0,.1),inset 0 1px 0 0 #bdd894; }
+.wlt_coupon_theme .clicktoreveal.green .overlay { background:transparent url(../../framework/img/extra/clicktoreveal_g.png) top right no-repeat; } 
+.wlt_coupon_theme .clicktoreveal.green .overlay.none { text-align:center; background-position:-10px 0px; width:100%; }
+.wlt_coupon_theme .highlight {  margin:10px -11px -11px -11px !important;}
+.wlt_coupon_theme .wlt_rating_updown { float:none; }
+
+.wlt_coupon_theme .shortcode_taxonomy_block { clear:both; }
+.wlt_coupon_theme .shortcode_taxonomy_block a { background:#fff; clear: both; display: block; text-align:center; margin-bottom:10px; border:1px solid #ddd; padding:15px;  height:100px; overflow:hidden; }
+.wlt_coupon_theme .shortcode_taxonomy_block a:hover { background: #fafafa; font-weight:bold; }
+.wlt_coupon_theme .shortcode_taxonomy_block a img { margin-top:10px; }
+.wlt_coupon_theme .shortcode_taxonomy_block .storelogo { max-height: 40px; }
